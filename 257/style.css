@@ -1,0 +1,25 @@
+#sothunhat{
+    border: 2px ridge red;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+#sothuhai{
+    border: 2px ridge red;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+#KQ{
+    border: 2px ridge blue;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20%;
+}
+#ketqua td button{
+    height: 30px;
+    width: 50px;
+    border-radius: 60px/30px;
+    text-align: center;
+}
