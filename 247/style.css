@@ -1,0 +1,17 @@
+#noidung{
+    color: red;
+    background-color: yellow;
+    }
+tr{
+    height:20px
+}
+td{
+    width: 500px
+}
+#bang2 td{
+    background-color: rgb(74, 236, 96);
+    width: 80px;
+    padding: 6px;
+    text-align: center;
+    border: 2px ridge red;
+}
